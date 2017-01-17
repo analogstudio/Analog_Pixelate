@@ -1,5 +1,5 @@
 # Pixelate_ImageEffect
 
-Simple pixelation image effect for Unity
+Simple pixelation image effect for Unity (All in OnRenderImage without shaders)
 
-![alt tag](https://cloud.githubusercontent.com/assets/2878395/21988504/63ffce96-dbff-11e6-9171-b9a775b982d4.PNG)
+![pix](https://cloud.githubusercontent.com/assets/2878395/22015647/e18594d6-dc9a-11e6-9ff5-e52756d876e4.PNG)
